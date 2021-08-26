@@ -1,0 +1,512 @@
+Résultat du fichier mknapcb/_mknapcb1_res.txt 
+
+Instance n°1 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 16491
+	Temps de calcul : 0.000027 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 19350
+	Temps de calcul : 0.000043 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 22502
+	Temps de calcul : 0.000049 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 21496
+	Temps de calcul : 0.000038 secondes
+
+Instance n°2 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 16574
+	Temps de calcul : 0.000014 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 19887
+	Temps de calcul : 0.000063 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 23159
+	Temps de calcul : 0.000032 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 20021
+	Temps de calcul : 0.000036 secondes
+
+Instance n°3 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 15543
+	Temps de calcul : 0.000014 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 18532
+	Temps de calcul : 0.000028 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 22584
+	Temps de calcul : 0.000031 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 21353
+	Temps de calcul : 0.000040 secondes
+
+Instance n°4 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 17517
+	Temps de calcul : 0.000014 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 20354
+	Temps de calcul : 0.000029 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 19627
+	Temps de calcul : 0.000039 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 21275
+	Temps de calcul : 0.000034 secondes
+
+Instance n°5 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 18170
+	Temps de calcul : 0.000015 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 20733
+	Temps de calcul : 0.000030 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 22026
+	Temps de calcul : 0.000034 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 20779
+	Temps de calcul : 0.000044 secondes
+
+Instance n°6 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 16026
+	Temps de calcul : 0.000018 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 19225
+	Temps de calcul : 0.000031 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 24042
+	Temps de calcul : 0.000031 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 20468
+	Temps de calcul : 0.000033 secondes
+
+Instance n°7 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 19083
+	Temps de calcul : 0.000015 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 21525
+	Temps de calcul : 0.000032 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 24459
+	Temps de calcul : 0.000034 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 23038
+	Temps de calcul : 0.000035 secondes
+
+Instance n°8 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 18102
+	Temps de calcul : 0.000013 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 19909
+	Temps de calcul : 0.000030 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 22554
+	Temps de calcul : 0.000035 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 19131
+	Temps de calcul : 0.000034 secondes
+
+Instance n°9 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 18908
+	Temps de calcul : 0.000014 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 19453
+	Temps de calcul : 0.000031 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 22737
+	Temps de calcul : 0.000035 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 20485
+	Temps de calcul : 0.000038 secondes
+
+Instance n°10 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 17739
+	Temps de calcul : 0.000013 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 21291
+	Temps de calcul : 0.000045 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 23445
+	Temps de calcul : 0.000034 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 22122
+	Temps de calcul : 0.000036 secondes
+
+Instance n°11 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 38051
+	Temps de calcul : 0.000015 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 38656
+	Temps de calcul : 0.000031 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 42231
+	Temps de calcul : 0.000033 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 41068
+	Temps de calcul : 0.000038 secondes
+
+Instance n°12 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 36195
+	Temps de calcul : 0.000015 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 37351
+	Temps de calcul : 0.000031 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 40923
+	Temps de calcul : 0.000034 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 39613
+	Temps de calcul : 0.000040 secondes
+
+Instance n°13 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 34417
+	Temps de calcul : 0.000014 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 38308
+	Temps de calcul : 0.000031 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 41056
+	Temps de calcul : 0.000060 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 39250
+	Temps de calcul : 0.000051 secondes
+
+Instance n°14 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 34687
+	Temps de calcul : 0.000014 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 39519
+	Temps de calcul : 0.000031 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 43503
+	Temps de calcul : 0.000051 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 41462
+	Temps de calcul : 0.000038 secondes
+
+Instance n°15 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 34763
+	Temps de calcul : 0.000030 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 34688
+	Temps de calcul : 0.000031 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 40885
+	Temps de calcul : 0.000031 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 38958
+	Temps de calcul : 0.000039 secondes
+
+Instance n°16 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 35000
+	Temps de calcul : 0.000016 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 39551
+	Temps de calcul : 0.000048 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 42030
+	Temps de calcul : 0.000036 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 39916
+	Temps de calcul : 0.000037 secondes
+
+Instance n°17 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 35291
+	Temps de calcul : 0.000015 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 38138
+	Temps de calcul : 0.000028 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 40309
+	Temps de calcul : 0.000030 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 39223
+	Temps de calcul : 0.000035 secondes
+
+Instance n°18 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 35789
+	Temps de calcul : 0.000015 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 39365
+	Temps de calcul : 0.000031 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 41895
+	Temps de calcul : 0.000034 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 41963
+	Temps de calcul : 0.000036 secondes
+
+Instance n°19 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 38002
+	Temps de calcul : 0.000020 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 38652
+	Temps de calcul : 0.000033 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 42169
+	Temps de calcul : 0.000051 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 39918
+	Temps de calcul : 0.000053 secondes
+
+Instance n°20 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 37218
+	Temps de calcul : 0.000015 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 40515
+	Temps de calcul : 0.000031 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 43912
+	Temps de calcul : 0.000032 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 42619
+	Temps de calcul : 0.000049 secondes
+
+Instance n°21 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 54110
+	Temps de calcul : 0.000015 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 55983
+	Temps de calcul : 0.000031 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 58815
+	Temps de calcul : 0.000033 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 57445
+	Temps de calcul : 0.000057 secondes
+
+Instance n°22 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 56409
+	Temps de calcul : 0.000016 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 58509
+	Temps de calcul : 0.000046 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 60952
+	Temps de calcul : 0.000030 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 59273
+	Temps de calcul : 0.000032 secondes
+
+Instance n°23 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 52700
+	Temps de calcul : 0.000014 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 55915
+	Temps de calcul : 0.000031 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 59125
+	Temps de calcul : 0.000035 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 57730
+	Temps de calcul : 0.000036 secondes
+
+Instance n°24 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 56042
+	Temps de calcul : 0.000015 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 56140
+	Temps de calcul : 0.000030 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 59997
+	Temps de calcul : 0.000033 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 58543
+	Temps de calcul : 0.000039 secondes
+
+Instance n°25 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 53494
+	Temps de calcul : 0.000021 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 56372
+	Temps de calcul : 0.000031 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 60746
+	Temps de calcul : 0.000035 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 58516
+	Temps de calcul : 0.000058 secondes
+
+Instance n°26 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 52447
+	Temps de calcul : 0.000015 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 56294
+	Temps de calcul : 0.000032 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 57858
+	Temps de calcul : 0.000049 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 57709
+	Temps de calcul : 0.000039 secondes
+
+Instance n°27 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 56624
+	Temps de calcul : 0.000016 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 59033
+	Temps de calcul : 0.000031 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 60776
+	Temps de calcul : 0.000043 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 57794
+	Temps de calcul : 0.000037 secondes
+
+Instance n°28 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 57020
+	Temps de calcul : 0.000016 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 60015
+	Temps de calcul : 0.000031 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 59696
+	Temps de calcul : 0.000033 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 60024
+	Temps de calcul : 0.000035 secondes
+
+Instance n°29 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 53013
+	Temps de calcul : 0.000015 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 55894
+	Temps de calcul : 0.000035 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 58264
+	Temps de calcul : 0.000034 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 57015
+	Temps de calcul : 0.000036 secondes
+
+Instance n°30 :
+	Méthode n°1 : Aléatoire
+	Valeur finale : 52903
+	Temps de calcul : 0.000015 secondes
+
+	Méthode n°2 : Valeurs
+	Valeur finale : 56824
+	Temps de calcul : 0.000032 secondes
+
+	Méthode n°3 : Ratio Valeurs / Poids
+	Valeur finale : 59650
+	Temps de calcul : 0.000035 secondes
+
+	Méthode n°4 : Ratio Valeurs / PoidsDeLaDimensionCritique
+	Valeur finale : 58466
+	Temps de calcul : 0.000036 secondes
+
